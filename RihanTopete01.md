@@ -14,17 +14,27 @@ Mientras se van  uniendo, se lanzan preguntas al público para romper el hielo
 # Desarrollo
  
 Cuéntanos un poco sobre ti, ¿de dónde eres?,¿dónde naciste?, ¿qué te gusta hacer? 
+
 ¿Qué estudiaste y cómo fueron tus comienzos en el área de TI?
+
 ¿En qué momento te especializaste en el análisis de requerimientos?
+
 ¿Cuáles son los skills técnicos que debe tener un Business analyst?
+
 ¿Cuáles son las habilidades blandas?
+
 ¿Cuáles son los diferentes sectores en los que puede especializarse un analista de negocio?
+
 ¿Cómo se relaciona tu rol con los otros miembros del equipo de trabajo?
+
 ¿Cómo resuelve un Business Analyst un "Bomberazo"?
+
 ¿Has tenido que reevaluar proyectos terminados?
+
 ¿Prefieres integrarte un nuevo proyecto o uno existente?
-¿Cuál fue el reto más grande que has enfrentado en
- tu campo?
+
+¿Cuál fue el reto más grande que has enfrentado en tu campo?
+
 ¿Cómo puedo convertirme en Business Analyst?
 	
 //Sindrome de burnout
